@@ -1,2 +1,2 @@
 # GitDemo
-this is a demo time
+this is a demo time.
